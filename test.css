@@ -134,5 +134,9 @@ tr:nth-last-of-type(2n) {
  opacity: .7;
 } 
 
+/*More Coming soon*/
 
+div{
+background:linear-gradient(to bottom,#fefefe, red);
+}
 
